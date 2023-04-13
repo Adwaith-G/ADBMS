@@ -1,0 +1,2 @@
+# ADBMS
+DBMS LAB KTU
